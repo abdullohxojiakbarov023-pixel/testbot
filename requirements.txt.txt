@@ -1,0 +1,4 @@
+aiogram
+google-generativeai
+python-dotenv
+reportlab
